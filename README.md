@@ -14,3 +14,5 @@ Use CMake and Makefile to compile.
 Instructions will be displayed in the top left corner of the program.
 
 Have fun!
+
+![falling_sand_pic](./falling_sand_pic.png)
