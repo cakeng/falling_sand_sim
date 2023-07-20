@@ -1,7 +1,9 @@
 ## Falling Sand Simulator
 A pixel-based physics and rendering engine written using C++ and OpenGL, as a part of Graphics Programming course at SNU ECE.
 
-This project is heavily inspired by Noita and The Powder Toy
+This project is heavily inspired by Noita and The Powder Toy.
+
+Included video (Demo_Video.mp4) includes some flashy demo of the program. (Caution: Program not actually as exciting as the video.)
 
 If you are on Linux, please install libglm-dev, libglfw3-dev, and libfreetype-dev before compiling.
 
