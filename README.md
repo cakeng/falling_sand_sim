@@ -3,7 +3,7 @@ A pixel-based physics and rendering engine written using C++ and OpenGL, as a pa
 
 This project is heavily inspired by Noita and The Powder Toy.
 
-Included video (Demo_Video.mp4) includes some flashy demo of the program. (Caution: Program not actually as exciting as the video.)
+The included video (Demo_Video.mp4) contains some flashy demo of the program. (Caution: Program not actually as exciting as the video.)
 
 If you are on Linux, please install libglm-dev, libglfw3-dev, and libfreetype-dev before compiling.
 
