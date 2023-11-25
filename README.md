@@ -5,8 +5,6 @@ This project is heavily inspired by Noita and The Powder Toy.
 
 The included video (Demo_Video.mp4) contains some flashy demo of the program. (Caution: Program not actually as exciting as the video.)
 
----
-
 ## Usage Instruction
 
 Falling Sand.zip includes a pre-built binary for Windows.
